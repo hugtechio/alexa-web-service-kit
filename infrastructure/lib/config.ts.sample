@@ -1,0 +1,8 @@
+export default {
+    name: "AlexaWebService",
+    repository: "alexa-web-service",
+    acmArn: 'arn:aws:acm:us-east-1:xxxxxxxxxxx:certificate/xxxxxxxxxxxxxx',
+    hostedZoneId: 'xxxxxxxxxx',
+    zoneName: 'hugtech.io',
+    domainName: 'alexa.hugtech.io'
+}

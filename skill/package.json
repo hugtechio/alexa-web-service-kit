@@ -1,0 +1,26 @@
+{
+  "name": "fargate_alexa",
+  "version": "0.0.1",
+  "description": "alexa express server on docker(fargate)",
+  "main": "server.js",
+  "author": "haruharuharuby",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js",
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.2",
+    "@types/node": "^13.5.0",
+    "@types/node-forge": "^0.9.1",
+    "ask-sdk": "^2.7.0",
+    "ask-sdk-core": "^2.7.0",
+    "ask-sdk-express-adapter": "^2.0.1",
+    "ask-sdk-model": "^1.25.1",
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "node-forge": "^0.9.1",
+    "typescript": "^3.7.5"
+  }
+}

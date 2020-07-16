@@ -2,6 +2,11 @@
 
 The Alexa web service kit makes you deploy Backend infrastructure of Alexa Skill Kit as a Web Service easier.
 
+
+# Sample demo
+
+https://youtu.be/mpKuAPJU058
+
 # Requirements
 docker
 aws cli v2
